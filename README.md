@@ -1,1 +1,1 @@
-# obsidian-image2024
+# obsidian-image
