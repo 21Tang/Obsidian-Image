@@ -1,1 +1,1 @@
-# obsidian-image
+# Obsidian-Image
